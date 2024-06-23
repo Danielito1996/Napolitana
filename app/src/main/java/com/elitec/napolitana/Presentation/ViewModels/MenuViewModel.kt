@@ -7,5 +7,5 @@ import javax.inject.Inject
 
 @HiltViewModel
 class MenuViewModel @Inject constructor(private val factory:IGenericsFactory):ViewModel() {
-
+	
 }
